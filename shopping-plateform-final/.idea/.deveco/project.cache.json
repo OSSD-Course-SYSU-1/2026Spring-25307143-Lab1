@@ -1,0 +1,16 @@
+{
+	"CommonInfo":{
+		"project.ide.version":"6.0.2.650",
+		"current.select.product":"default",
+		"current.select.buildMode":"",
+		"crossplatform.projectType":""
+	},
+	"BuildOptions":{
+		"SELECT_BUILD_PRODUCT":"default",
+		"BUNDLE_NAME":"com.atomicservice.6917609041042536136",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"D:\\ClassWork\\shopping-plateform\\build\\outputs\\default"
+		},
+		"SELECT_BUILD_MODE":""
+	}
+}

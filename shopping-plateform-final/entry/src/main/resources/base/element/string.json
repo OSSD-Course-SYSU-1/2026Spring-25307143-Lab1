@@ -1,0 +1,244 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HuaweiIDSample"
+    },
+    {
+      "name": "avatar",
+      "value": "Profile picture"
+    },
+    {
+      "name": "phone",
+      "value": "Mobile number"
+    },
+    {
+      "name": "hwid_no_internet_connect",
+      "value": "No Internet connection. Check your network settings. "
+    },
+    {
+      "name": "hwid_text_button_known",
+      "value": "OK"
+    },
+    {
+      "name": "shippingAddress",
+      "value": "Shipping address"
+    },
+    {
+      "name": "openMinorProtection",
+      "value": "Youth Mode is on"
+    },
+    {
+      "name": "closeMinorProtection",
+      "value": "Youth Mode is off"
+    },
+    {
+      "name": "invoiceTitle",
+      "value": "Invoice header"
+    },
+    {
+      "name": "minorProtection",
+      "value": "Youth Mode"
+    },
+    {
+      "name": "availableTime",
+      "value": "Available duration"
+    },
+    {
+      "name": "closeMinorsTitle",
+      "value": "Youth mode has been enabled for the current app. If you turn it off, the age-appropriate content and available duration will not be displayed based on your age."
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "close",
+      "value": "Close"
+    },
+    {
+      "name": "get",
+      "value": "Get"
+    },
+    {
+      "name": "hwUser",
+      "value": "Huawei user"
+    },
+    {
+      "name": "disassociate",
+      "value": "Disassociate"
+    },
+    {
+      "name": "shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "my",
+      "value": "My"
+    },
+    {
+      "name": "ageAppropriateContent",
+      "value": "Age-appropriate content"
+    },
+    {
+      "name": "age",
+      "value": "%1$d ~ %2$d years old"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "message",
+      "value": "Message"
+    },
+    {
+      "name": "mode_switch",
+      "value": "Mode"
+    },
+    {
+      "name": "shopping_cart",
+      "value": "Cart"
+    },
+    {
+      "name": "market_mode",
+      "value": "Market"
+    },
+    {
+      "name": "shopping_mode",
+      "value": "Shopping"
+    },
+    {
+      "name": "current_mode",
+      "value": "Current Mode"
+    },
+    {
+      "name": "shopping_mode_name",
+      "value": "Shopping Mode"
+    },
+    {
+      "name": "market_mode_name",
+      "value": "Market Mode"
+    },
+    {
+      "name": "switch_to_market",
+      "value": "Switch to Market"
+    },
+    {
+      "name": "switch_to_shopping",
+      "value": "Switch to Shopping"
+    },
+    {
+      "name": "mode_description",
+      "value": "Switch between shopping and market modes"
+    },
+    {
+      "name": "camera_reason",
+      "value": "Need camera access to take product photos"
+    },
+    {
+      "name": "media_reason",
+      "value": "Need gallery access to select product images"
+    },
+    {
+      "name": "publish_product",
+      "value": "Publish New Product"
+    },
+    {
+      "name": "resell_product",
+      "value": "Resell"
+    },
+    {
+      "name": "product_name",
+      "value": "Product Name"
+    },
+    {
+      "name": "product_price",
+      "value": "Product Price"
+    },
+    {
+      "name": "shipping_method",
+      "value": "Shipping Method"
+    },
+    {
+      "name": "shipping_address",
+      "value": "Shipping Address"
+    },
+    {
+      "name": "product_description",
+      "value": "Product Description"
+    },
+    {
+      "name": "product_image",
+      "value": "Product Image"
+    },
+    {
+      "name": "take_photo",
+      "value": "Take Photo"
+    },
+    {
+      "name": "choose_from_gallery",
+      "value": "Choose from Gallery"
+    },
+    {
+      "name": "publish",
+      "value": "Publish"
+    },
+    {
+      "name": "product_recommend",
+      "value": "Product Recommendations"
+    },
+    {
+      "name": "select_product",
+      "value": "Select Product"
+    },
+    {
+      "name": "edit_product",
+      "value": "Edit Product"
+    },
+    {
+      "name": "product_list",
+      "value": "Product List"
+    },
+    {
+      "name": "no_products",
+      "value": "No products"
+    },
+    {
+      "name": "loading",
+      "value": "Loading..."
+    },
+    {
+      "name": "success",
+      "value": "Success"
+    },
+    {
+      "name": "failed",
+      "value": "Failed"
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "please_input",
+      "value": "Please input"
+    },
+    {
+      "name": "please_select",
+      "value": "Please select"
+    },
+    {
+      "name": "internet_reason",
+      "value": "Need internet access to fetch product data"
+    }
+  ]
+}

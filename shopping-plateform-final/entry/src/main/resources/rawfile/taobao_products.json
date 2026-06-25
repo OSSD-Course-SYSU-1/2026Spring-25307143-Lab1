@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "树莓派人形机器人AI视觉大模型TonyPi仿生双足具身智能Python编程",
+    "price": "3699.00",
+    "image": "https://img.alicdn.com/imgextra/i1/2201505950941/O1CN01b9Yn2f1Ip1lBcepD3_!!2201505950941.png_760x760q30.jpg_.webp",
+    "description": "AI视觉大模型，仿生双足设计，Python编程",
+    "seller": "幻尔旗舰店",
+    "location": "广东深圳",
+    "sales": 128,
+    "url": "https://detail.tmall.com/item.htm?id=600845316234"
+  },
+  {
+    "id": "2",
+    "name": "【618立即抢购】毛戈平鱼子酱面膜涂抹熬夜救星舒缓修护抗皱紧致",
+    "price": "299.00",
+    "image": "https://img.alicdn.com/imgextra/i2/839895996/O1CN01cqDCSd1uADugGJQZV_!!839895996.jpg_760x760q30.jpg_.webp",
+    "description": "熬夜救星，舒缓修护抗皱紧致",
+    "seller": "MAOGEPING毛戈平官方旗舰店",
+    "location": "浙江嘉兴",
+    "sales": 5623,
+    "url": "https://detail.tmall.com/item.htm?id=537219932625"
+  },
+  {
+    "id": "3",
+    "name": "苏泊尔电烤箱家用大容量蒸烤炸一体多功能智能调控长效预约烘焙箱",
+    "price": "599.00",
+    "image": "https://img.alicdn.com/imgextra/i3/2219155702334/O1CN01nMjc3X1T71RStDyKK_!!2219155702334.jpg_760x760q30.jpg_.webp",
+    "description": "蒸烤炸一体，多功能智能调控，长效预约",
+    "seller": "苏泊尔智能阳台旗舰店",
+    "location": "",
+    "sales": 892,
+    "url": "https://detail.tmall.com/item.htm?id=945750272090"
+  },
+  {
+    "id": "4",
+    "name": "灵动创想初音未来马尾甩甩毛绒玩偶周边挂件fufu公仔娃娃生日礼物",
+    "price": "89.00",
+    "image": "https://img.alicdn.com/imgextra//8b/56/TB1bRlZQpXXXXbZXpXXSutbFXXX.jpg_760x760q30.jpg_.webp",
+    "description": "初音未来周边，毛绒玩偶，生日礼物",
+    "seller": "灵动创想旗舰店",
+    "location": "",
+    "sales": 3456,
+    "url": "https://detail.tmall.com/item.htm?id=816384618987"
+  }
+]
