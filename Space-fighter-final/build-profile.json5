@@ -1,0 +1,110 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\16066\\.ohos\\config\\default_Space-fighter_QsszhH9FNkrEEk6GJmTp9pAJd7xDWSQ0MlA6Fx19i-4=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BB188295513887A0C2F3FA0536AF5D0ACEB906723E435E71E8139D5352E0567D9647E2375A3412B",
+          "profile": "C:\\Users\\16066\\.ohos\\config\\default_Space-fighter_QsszhH9FNkrEEk6GJmTp9pAJd7xDWSQ0MlA6Fx19i-4=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\16066\\.ohos\\config\\default_Space-fighter_QsszhH9FNkrEEk6GJmTp9pAJd7xDWSQ0MlA6Fx19i-4=.p12",
+          "storePassword": "0000001B6B11D7776E8CDA2057A0A9669F626C9DEA9EC50E81AB6B583400FC9BE5297CFF58775236B6B195"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "6.0.0(20)",
+        "compatibleSdkVersion": "6.0.0(20)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      },
+      {
+        "name": "phone",
+        "signingConfig": "default",
+        "targetSdkVersion": "6.0.0(20)",
+        "compatibleSdkVersion": "6.0.0(20)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      },
+      {
+        "name": "tablet",
+        "signingConfig": "default",
+        "targetSdkVersion": "6.0.0(20)",
+        "compatibleSdkVersion": "6.0.0(20)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "phone",
+      "srcPath": "./product/phone",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default",
+            "phone"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tablet",
+      "srcPath": "./product/tablet",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default",
+            "tablet"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "continue",
+      "srcPath": "./features/continue",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default",
+            "phone",
+            "tablet"
+          ]
+        }
+      ]
+    }
+  ]
+}
